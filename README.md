@@ -10,6 +10,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I Learned](#what-i-learned)
+  - [Useful Resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgements](#acknowledgments)
 
