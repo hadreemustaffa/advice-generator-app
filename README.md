@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-app-4r-ELpR1tI)
-- Live Site URL: [Add live site URL here](https://hadreemustaffa.github.io/advice-generator-app/)
+- Live Site URL: [Github Pages](https://hadreemustaffa.github.io/advice-generator-app/)
 
 ## My process
 
